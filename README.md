@@ -24,3 +24,7 @@ A simple Task Tracker application built using **React** and **Vite**.
 ```bash
 git clone https://github.com/SandeshRKarande/task-tracker-react.git
 ```
+
+## Screenshot
+
+![Task Tracker Screenshot](screenshots/app.png)
